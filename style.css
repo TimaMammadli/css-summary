@@ -1,0 +1,44 @@
+body{
+    /* background-image: url(file:///C:/Users/timam/AppData/Local/Temp/Temp1_css-order-summary-main.zip/css-order-summary-main/images/pattern-background-desktop.svg); */
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    background-position: right;
+}
+
+
+
+
+main{
+    background-color: whitesmoke;
+border-style: outset;
+border-width: 10px;
+border: none;
+border-radius: 10px;
+overflow: hidden;
+text-align: center;}
+
+.order-box{
+
+
+    width: 100%;
+    text-align: center;
+}
+
+.order-content{
+    width: 200px;
+    text-align: center;
+    
+}
+.procees{
+    width: 100%;
+    background-color: blue;
+}
+
+.cancel{
+    width: 100%;
+    background-color: aliceblue;
+    margin-bottom: 30px;
+}
